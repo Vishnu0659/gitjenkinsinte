@@ -1,2 +1,1 @@
-print("hey u")
-print("hey babe")
+print("hey you are mines")
